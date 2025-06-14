@@ -121,13 +121,13 @@ LIMIT 5;
 ```
 
 **Table of the demand for the top 5 skills in data scientist job postings**
-| Skill   | Demand Count |
-|---------|--------------|
-| Python  | 4,261        |
-| SQL     | 3,114        |
-| R       | 2,463        |
-| Tableau | 1,262        |
-| SAS     | 1,226        |
+| Rank | Skill   | Demand Count |
+|------|---------|---------------|
+| 1    | Python  | 4,261         |
+| 2    | SQL     | 3,114         |
+| 3    | R       | 2,463         |
+| 4    | Tableau | 1,262         |
+| 5    | SAS     | 1,226         |
 
 Here's the breakdown of the most demanded skills for data scientist in 2023:
 - **Python and SQL remain foundational:** Python leads with the highest demand (4,261 job listings), confirming its position as the core programming language for data manipulation, modeling, and automation. SQL, essential for data querying, follows closely, making both must-have skills.
